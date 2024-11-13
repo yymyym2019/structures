@@ -4,6 +4,6 @@ In the "PRODA results" folder, the files in the 7EOA directory represent variant
 
 In the "Modeller" folder, 50 remodeled structures were designed using Modeller.
 
-The Computed Binding Geometries with Crystal Structures folder contains the PET binding geometries of the wild-type Bhr-PETase and variant Bhr-NMT crystal structures, derived from PRODA's computational results.
+The "Computed Binding Geometries with Crystal Structures" folder contains the PET binding geometries of the wild-type Bhr-PETase and variant Bhr-NMT crystal structures, derived from PRODA's computational results.
 
 Moreover, other data, scripts or structures associated to this work will be available upon request to the author (zhuys@mail.buct.edu.cn).
